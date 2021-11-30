@@ -7,10 +7,8 @@
     ],
     "rounds": [
         {
-            "questionEng": "Should I drink, or should I eat a chcoclate bar",
-            "roundRightEng": "Well done. Glucose drinks work quickly to increase the blood glucose level",
+            "roundRightEng": "Well done1. Glucose drinks work quickly to increase the blood glucose level",
             "roundWrongEng": "Oops. Chocolate contains fat and is digested too slowly to use as a hypo treatment",
-            "questionCym": "sy'n well",
             "roundRightCym": "Cywir",
             "roundWrongCym": "Anghywir",
             "correctImgName": "round1_right",
@@ -19,11 +17,8 @@
 
         },
         {
-
-            "questionEng": "which is better2",
             "roundRightEng": "Well done. Jelly babies will work quickly to increase the blood glucose level",
             "roundWrongEng": "Oops. Diet drinks don’t contain any sugar and aren’t suitable for treating a hypo",
-            "questionCym": "sy'n well",
             "roundRightCym": "Cywir",
             "roundWrongCym": "Anghywir",
             "correctImgName": "round2_right",
@@ -32,10 +27,8 @@
 
         },
         {
-            "questionEng": "which is better3",
             "roundRightEng": "Well done. Glucose tablets work quickly to increase the blood glucose level",
             "roundWrongEng": "Biscuits are digested too slowly to use as a hypo treatment",
-            "questionCym": "sy'n well",
             "roundRightCym": "Cywir",
             "roundWrongCym": "Anghywir",
             "correctImgName": "round3_right",
@@ -43,10 +36,8 @@
             "incorrectSound": "eating"
         },
         {
-            "questionEng": "which is better4",
             "roundRightEng": "Well done. Glucogel will work quickly to increase the blood glucose level",
             "roundWrongEng": "Milk is digested too slowly to use as a hypo treatment",
-            "questionCym": "sy'n well",
             "roundRightCym": "Cywir",
             "roundWrongCym": "Anghywir",
             "correctImgName": "round4_right",
